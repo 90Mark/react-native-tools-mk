@@ -1,0 +1,25 @@
+{
+  "name": "react-native-tools-mk",
+  "version": "1.0.2",
+  "description": "tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/90Mark/react-native-tools-mk.git"
+  },
+  "keywords": [
+    "toolsManager",
+    "tools",
+    "mk",
+    "react-native"
+  ],
+  "author": "90mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/90Mark/react-native-tools-mk/issues"
+  },
+  "homepage": "https://github.com/90Mark/react-native-tools-mk#readme"
+}
